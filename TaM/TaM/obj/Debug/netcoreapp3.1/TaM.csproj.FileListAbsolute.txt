@@ -1,0 +1,51 @@
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/bin/Debug/netcoreapp3.1/TaM.deps.json
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/bin/Debug/netcoreapp3.1/TaM.runtimeconfig.json
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/bin/Debug/netcoreapp3.1/TaM.runtimeconfig.dev.json
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/bin/Debug/netcoreapp3.1/TaM.dll
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/bin/Debug/netcoreapp3.1/TaM.pdb
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/obj/Debug/netcoreapp3.1/TaM.csprojAssemblyReference.cache
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/obj/Debug/netcoreapp3.1/TaM.AssemblyInfoInputs.cache
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/obj/Debug/netcoreapp3.1/TaM.AssemblyInfo.cs
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/obj/Debug/netcoreapp3.1/TaM.csproj.CoreCompileInputs.cache
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/obj/Debug/netcoreapp3.1/TaM.dll
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/obj/Debug/netcoreapp3.1/TaM.pdb
+/Users/michaelblayney/Documents/GitHub/JessBooAssignment/TaM/TaM/obj/Debug/netcoreapp3.1/TaM.genruntimeconfig.cache
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.exe
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.deps.json
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.runtimeconfig.json
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.runtimeconfig.dev.json
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.dll
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.pdb
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.AssemblyInfoInputs.cache
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.AssemblyInfo.cs
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.csproj.CoreCompileInputs.cache
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.dll
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.pdb
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.genruntimeconfig.cache
+C:\Users\jessb\OneDrive\Documents\GitHub\JessBooAssignment\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.csprojAssemblyReference.cache
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.exe
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.deps.json
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.runtimeconfig.json
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.runtimeconfig.dev.json
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.dll
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.pdb
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.csprojAssemblyReference.cache
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.AssemblyInfoInputs.cache
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.AssemblyInfo.cs
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.csproj.CoreCompileInputs.cache
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.dll
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.pdb
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment1\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.genruntimeconfig.cache
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.exe
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.deps.json
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.runtimeconfig.json
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.runtimeconfig.dev.json
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.dll
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\bin\Debug\netcoreapp3.1\TaM.pdb
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.csprojAssemblyReference.cache
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.AssemblyInfoInputs.cache
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.AssemblyInfo.cs
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.csproj.CoreCompileInputs.cache
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.dll
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.pdb
+C:\Users\jessb\OneDrive\Documents\Uni\BCDE222 C# Fundamentals\Assignment2\TaM\TaM\obj\Debug\netcoreapp3.1\TaM.genruntimeconfig.cache
